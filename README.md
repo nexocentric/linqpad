@@ -1,0 +1,1 @@
+Just a repository of any snippets that I might create in LINQPad.
